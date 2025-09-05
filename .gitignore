@@ -1,3 +1,5 @@
 **/node_modules/
-**/.env/
+
+# Ignorar arquivos .env em qualquer pasta
+**/.env
 **/.env.*
